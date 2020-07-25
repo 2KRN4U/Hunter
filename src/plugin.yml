@@ -1,0 +1,8 @@
+main: com.tsukrn.Hunter.Hunter
+name: Hunter
+version: 1.0
+author: 2KRN
+api-version: 1.16
+
+commands:
+ Track:
